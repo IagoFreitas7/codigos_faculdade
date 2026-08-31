@@ -15,7 +15,6 @@ float calcularFaturamento(); // faturamento = qnt de passageiros x preco da pass
 void limpar();
 void validar(int &var);
 
-
 struct Voo{
   int num;
   string origem;
