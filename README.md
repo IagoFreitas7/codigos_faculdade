@@ -2,6 +2,6 @@
 
 ---
 
-## - LP1 -> Linguagem de Programação 1
+## LP1 -> Linguagem de Programação 1
 
 Códigos de atividades e laboratórios da disciplina feitos em C++.
